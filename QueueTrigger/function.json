@@ -5,7 +5,7 @@
       "type": "queueTrigger",
       "direction": "in",
       "queueName": "js-queue-items",
-      "connection": "kuvfnwinapp999e_STORAGE"
+      "connection": "AzureWebJobsStorage"
     }
   ]
 }
